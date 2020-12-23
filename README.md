@@ -12,7 +12,7 @@
 
 注意：点击打开按钮后会先杀掉现有系统开启的wx，然后再开启指定数量的wx，因此，需要开启几个wx需要先设定好，免得麻烦
 
-![](https://github.com/lybbn/wxopenmore/blob/main/01.png)
+![wx多开助手图片](https://github.com/lybbn/wxopenmore/blob/main/01.png)
 
 联系作者
 
